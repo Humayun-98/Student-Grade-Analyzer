@@ -1,0 +1,34 @@
+==================================================
+STUDENT PERFORMANCE SUMMARY REPORT
+==================================================
+Total Students Analyzed : 15
+Overall Class Average   : 64.65
+Average Attendance (%)  : 79.07
+
+Subject-wise Averages:
+  - Math      : 64.07
+  - Science   : 64.0
+  - English   : 63.47
+  - History   : 67.07
+
+Grade Distribution:
+  - Grade A: 3 student(s)
+  - Grade B: 4 student(s)
+  - Grade C: 2 student(s)
+  - Grade D: 4 student(s)
+  - Grade F: 2 student(s)
+
+Pass/Fail: 13 passing, 2 failing (86.67% pass rate)
+
+Top Performers:
+  - Ayesha Khan: 92.0
+  - Omar Farooq: 91.5
+  - Ali Raza: 86.0
+
+Students Needing Attention (lowest averages):
+  - Talha Rasheed: 29.25
+  - Hamza Yousaf: 39.25
+  - Mahnoor Iqbal: 41.75
+
+Students with Attendance Below 75%: 6
+==================================================
